@@ -12,23 +12,35 @@ This repository contains:
 ## 🔍 What’s in this Repo?
 
 ### `/data/`
-A collection of **seed datasets**, structured for generation and verification.
+A collection of **seed datasets**, structured for generation and verification, divded for each domain. 
 
 Each datapoint includes:
 - `question`
 - `final_answer`
 - `rationale` (typically code)
-- `metadata` (license, source, domain)
-- `misc` (difficulty, tags, anything else)
-
-Domains include:
-- Mathematical Programming
-- Graph Theory
-- Computational Biology
-
-…and more.
+- `metadata` (license, source, domain, difficulty, tags, anything else)
 
 Each dataset is designed to allow automatic evaluation via **verifiers**, usually by executing the rationale code and comparing the output to the known answer.
+
+
+#### 📊 Dataset Overview
+
+The repository currently includes a total of **6,255 questions** spanning **11 diverse domains**:
+
+- 🧮 **Advanced Math:** 1,615 questions  
+- ⚛️ **Advanced Physics:** 434 questions  
+- 🎲 **Board Games:** 926 questions  
+- 🧬 **Computational Biology:** 304 questions  
+- 💹 **Finance:** 320 questions  
+- 📈 **Graph & Discrete Math:** 179 questions  
+- 🧠 **Logic:** 110 questions  
+- 📐 **Mathematical Programming:** 68 questions  
+- 🩺 **Medicine:** 1,193 questions  
+- 💻 **Programming:** 585 questions  
+- 🔒 **Security & Safety:** 521 questions
+
+
+We have combined all the datasets into a single file: `data/all_seed_dataset.json`. You can also find each domain's dataset in the corresponding folder. 
 
 Want to contribute your own? See the [CONTRIBUTING.md](.data/CONTRIBUTING.md) for seed datasets.
 
