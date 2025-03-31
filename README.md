@@ -8,16 +8,12 @@
 
 <div align="center">
 
-
 [![Discord][discord-image]][discord-url]
 [![X][x-image]][x-url]
 [![Reddit][reddit-image]][reddit-url]
-[![Wechat][wechat-image]][wechat-url]
-[![Wechat][oasis-image]][oasis-url]
 [![Hugging Face][huggingface-image]][huggingface-url]
 [![Star][star-image]][star-url]
 [![Package License][package-license-image]][package-license-url]
-
 
 <h4>
 
@@ -33,7 +29,7 @@
 <br>
 
 <div align="center">
-🐉 Loong Project is a collaborative effort to explore whether reasoning-capable models can bootstrap themselves from small, high-quality **seed datasets** by generating synthetic data — and verifying LLM agent responses.
+🐉 Loong Project is a collaborative effort to explore whether reasoning-capable models can bootstrap themselves from small, high-quality **seed datasets** by generating synthetic data and verifying LLM agent responses.
 
 <br>
 
@@ -51,7 +47,6 @@
 
 <br>
 
-
 ## 📊 Seed Datasets [→](./data)
 A collection of **seed datasets**, structured for generation and verification, divded for each domain. 
 
@@ -62,7 +57,6 @@ Each datapoint includes:
 - `metadata` (license, source, domain, difficulty, tags, anything else)
 
 Each dataset is designed to allow automatic evaluation via **verifiers**, usually by executing the rationale code and comparing the output to the known answer.
-
 
 ###  Dataset Overview
 
@@ -76,7 +70,6 @@ The repository currently includes a total of **3,551 questions** spanning **8 di
 - 🧠 **Logic:** 110 questions  
 - 📐 **Mathematical Programming:** 68 questions   
 - 🔒 **Security & Safety:** 521 questions
-
 
 We have combined all the datasets into a single file: `data/all_seed_dataset.json`. You can also find each domain's dataset in the corresponding folder. 
 
@@ -118,7 +111,6 @@ We're looking for:
 - Code: [LICENSE](./LICENSE)
 - Data: Per-dataset license in `metadata.json`
 
-
 <br>
 
 ## 👥 Maintainers & Contact
@@ -130,7 +122,6 @@ If you're keen on exploring new research opportunities or discoveries with our p
 <br>
 
 - Join us ([*Discord*](https://discord.camel-ai.org/) or [*WeChat*](https://ghli.org/camel/wechat.png)) in pushing the boundaries of finding the scaling laws of agents. 
-
 
 [discord-image]: https://img.shields.io/discord/1082486657678311454?logo=discord&labelColor=%20%235462eb&logoColor=%20%23f5f5f5&color=%20%235462eb
 [discord-url]: https://discord.camel-ai.org/
