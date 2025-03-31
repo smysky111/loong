@@ -1,17 +1,58 @@
-# 🐉 Loong Project
+<div align="center">
+  <a href="https://www.camel-ai.org/">
+    <img src="assets/banner.png" alt=banner>
+  </a>
+</div>
 
+</br>
+
+<div align="center">
+
+
+[![Discord][discord-image]][discord-url]
+[![X][x-image]][x-url]
+[![Reddit][reddit-image]][reddit-url]
+[![Wechat][wechat-image]][wechat-url]
+[![Wechat][oasis-image]][oasis-url]
+[![Hugging Face][huggingface-image]][huggingface-url]
+[![Star][star-image]][star-url]
+[![Package License][package-license-image]][package-license-url]
+
+
+<h4>
+
+[Community](https://github.com/camel-ai/camel#community) |
+[Cookbook](https://github.com/camel-ai/oasis/tree/main/scripts) |
+[Datasets](https://huggingface.co/datasets/camel-ai/loong) |
+[Contributing](data/CONTRIBUTING.md) |
+[CAMEL-AI](https://www.camel-ai.org/)
+</h4>
+
+</div>
+
+<br>
+
+<div align="center">
 🐉 Loong Project is a collaborative effort to explore whether reasoning-capable models can bootstrap themselves from small, high-quality **seed datasets** by generating synthetic data — and verifying LLM agent responses.
 
-This repository contains:
+<br>
 
-- ✅ **Seed Datasets** — Real, human-vetted data from computable domains like math, physics, finance, etc.
-- 📘 **Cookbooks** — Modular scripts for synthetic data generation, verification, and RL training loops.
+🌟 Star **Loong** on GitHub and be instantly notified of new releases.
 
----
+<img src="assets/star.gif" width="40px">
+</div>
 
-## 🔍 What’s in this Repo?
+<br>
 
-### `/data/`
+## 🔍 What's in this Repo?
+
+#### 1. 📊 **Seed Datasets** — Real, human-vetted data from computable domains like math, physics, finance, etc.
+#### 2. 📘 **Cookbooks** — Modular scripts for synthetic data generation, verification, and RL training loops.
+
+<br>
+
+
+## 📊 Seed Datasets [→](./data)
 A collection of **seed datasets**, structured for generation and verification, divded for each domain. 
 
 Each datapoint includes:
@@ -23,7 +64,7 @@ Each datapoint includes:
 Each dataset is designed to allow automatic evaluation via **verifiers**, usually by executing the rationale code and comparing the output to the known answer.
 
 
-#### 📊 Dataset Overview
+###  Dataset Overview
 
 The repository currently includes a total of **3,551 questions** spanning **8 diverse domains** (and growing!):
 
@@ -39,12 +80,14 @@ The repository currently includes a total of **3,551 questions** spanning **8 di
 
 We have combined all the datasets into a single file: `data/all_seed_dataset.json`. You can also find each domain's dataset in the corresponding folder. 
 
-Want to contribute your own? See the [CONTRIBUTING.md](data/CONTRIBUTING.md) for seed datasets.
+> [!TIP]
+> Want to contribute your own? See the [CONTRIBUTING.md](data/CONTRIBUTING.md) for seed datasets.
 
----
+<br>
 
-### `/cookbooks/`
+## 📘 Cookbooks [→](./cookboos)
 Reusable scripts and notebooks for:
+
 - Few-shot prompting from seed data
 - Generating synthetic questions, rationales, and answers
 - Running verifiers over generations
@@ -52,9 +95,9 @@ Reusable scripts and notebooks for:
 
 These pipelines allow you to condition generations on real data, verify outputs, and build consistent synthetic traces.
 
----
+<br>
 
-## 🧬 Contribute
+## 🧬 Contributuing to Project Loong 🐉
 
 We're looking for:
 - Seed datasets in verifiable domains
@@ -62,19 +105,46 @@ We're looking for:
 - Cookbook improvements
 - Experimental environments for RL
 
-Get started: [CONTRIBUTING.md](data/CONTRIBUTING.md)
+<br>
 
----
+>
+> We greatly appreciate your interest in contributing to our open-source initiative. To ensure a smooth collaboration and the success of contributions, we adhere to a set of contributing guidelines similar to those established by CAMEL. For a comprehensive understanding of the steps involved in contributing to our project, please refer to the CAMEL [Contributing Guidelines](data/CONTRIBUTING.md). 🤝
+>
+
+<br>
 
 ## 📜 License
 
 - Code: [LICENSE](./LICENSE)
 - Data: Per-dataset license in `metadata.json`
 
----
 
-## 👥 Maintainers
+<br>
+
+## 👥 Maintainers & Contact
 
 Project Loong is led by the [CAMEL](https://www.camel-ai.org/) team, with contributors from across the open-source AI research community.
 
-🐲 Join Us
+If you're keen on exploring new research opportunities or discoveries with our platform and wish to dive deeper or suggest new features, we're here to talk. Feel free to get in touch for more details at camel.ai.team@gmail.com.
+
+<br>
+
+- Join us ([*Discord*](https://discord.camel-ai.org/) or [*WeChat*](https://ghli.org/camel/wechat.png)) in pushing the boundaries of finding the scaling laws of agents. 
+
+
+[discord-image]: https://img.shields.io/discord/1082486657678311454?logo=discord&labelColor=%20%235462eb&logoColor=%20%23f5f5f5&color=%20%235462eb
+[discord-url]: https://discord.camel-ai.org/
+[huggingface-image]: https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-CAMEL--AI-ffc107?color=ffc107&logoColor=white
+[huggingface-url]: https://huggingface.co/datasets/camel-ai/loong
+[oasis-image]: https://img.shields.io/badge/WeChat-OASISProject-brightgreen?logo=wechat&logoColor=white
+[oasis-url]: ./assets/oasis_wechat.jpg
+[package-license-image]: https://img.shields.io/badge/License-Apache_2.0-blue.svg
+[package-license-url]: https://github.com/camel-ai/oasis/blob/main/licenses/LICENSE
+[reddit-image]: https://img.shields.io/reddit/subreddit-subscribers/CamelAI?style=plastic&logo=reddit&label=r%2FCAMEL&labelColor=white
+[reddit-url]: https://www.reddit.com/r/CamelAI/
+[star-image]: https://img.shields.io/github/stars/camel-ai/oasis?label=stars&logo=github&color=brightgreen
+[star-url]: https://github.com/camel-ai/loong/stargazers
+[wechat-image]: https://img.shields.io/badge/WeChat-CamelAIOrg-brightgreen?logo=wechat&logoColor=white
+[wechat-url]: ./assets/wechat.JPGwechat.jpg
+[x-image]: https://img.shields.io/twitter/follow/CamelAIOrg?style=social
+[x-url]: https://x.com/CamelAIOrg
