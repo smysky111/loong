@@ -2,7 +2,7 @@
 
 Welcome to **Project Loong 🐉** — our mission is to generate **verifiable synthetic data** to improve the reasoning capabilities of LLM agents. To achieve our goal of generating high quality synthetic data, we need **clean, trustworthy seed datasets** from real humans. That's where you come in.
 
-This doc explains how to contribute seed datasets. These seed datasets are synced with a HuggingFace dataset, which can be found here [# TODO add]
+This doc explains how to contribute seed datasets. These seed datasets are synced with a HuggingFace dataset, which can be found [here](https://github.com/camel-ai/loong).
 
 ---
 
@@ -12,12 +12,13 @@ A **seed dataset** is a set of manually created or human-curated examples in a s
 - A question
 - A final answer (the ground truth)
 - A rationale (preferably as code that leads to the final answer)
-- A `metadata` dict (required)
-- A `misc` dict (optional)
+- A `metadata` dict 
 
 These datasets are used to generate large-scale synthetic data via prompting, fine-tuning, and RL. Quality here matters more than quantity.
 
-Note that the final answer must be in a verifiable format or it must be extractable into a verifiable format. To learn more about extractors, read here [ # TODO link to cookbook showing how extractors work]. The format depends on the verifier that you want to later use. For example, if you want to use the `PythonVerifier`, a Python expression would constitute a verifiable format. An example on how to use the `PythonVerifier` can be found here [# TODO link to cookbook showing how to use PythonVerifier].
+
+Note that the final answer must be in a verifiable format or it must be extractable into a verifiable format. To learn more about extractors, read [here](TODO). The format depends on the verifier that you want to later use. For example, if you want to use the `PythonVerifier`, a Python expression would constitute a verifiable format. An example on how to use the `PythonVerifier` can be found [here](TODO).
+
 ---
 
 ## 📐 Required Schema
@@ -32,12 +33,10 @@ Each datapoint **must** follow this schema:
   "metadata": {
     "license": "CC BY 4.0",
     "source": "Basic Arithmetic, 1992",
-    "domain": "Mathematics"
-  },
-  "misc": {
+    "domain": "Mathematics",
     "difficulty": 1,
-    "tags": ["arithmetic"]
-    }
+    "tags": "arithmetic"
+  }
 }
 ```
 
@@ -50,7 +49,7 @@ Each datapoint **must** follow this schema:
   - `license`: Licensing info (e.g., `MIT`, `CC BY 4.0`)
   - `source`: Origin or reference of the data
   - `domain`: Must match one of our supported domains (e.g. `"Physics"`, `"Finance"`)
-- `misc` (OPTIONAL): Arbitrary metadata: difficulty (numerical scale), tags, units, subdomains, domain-specific metadata, etc.
+- `metadata` (OPTIONAL): Arbitrary metadata: difficulty (numerical scale), tags, units, subdomains, domain-specific metadata, etc.
 
 ---
 
@@ -77,9 +76,6 @@ Organize your dataset like this:
       "license": "...",
       "source": "...",
       "domain": "..."
-    },
-    "misc": {
-      "difficulty": 1
     }
   },
   ...

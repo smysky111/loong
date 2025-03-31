@@ -42,7 +42,7 @@ The repository currently includes a total of **6,255 questions** spanning **11 d
 
 We have combined all the datasets into a single file: `data/all_seed_dataset.json`. You can also find each domain's dataset in the corresponding folder. 
 
-Want to contribute your own? See the [CONTRIBUTING.md](.data/CONTRIBUTING.md) for seed datasets.
+Want to contribute your own? See the [CONTRIBUTING.md](data/CONTRIBUTING.md) for seed datasets.
 
 ---
 
