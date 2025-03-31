@@ -1,6 +1,6 @@
-# 🐉 Project Loong
+# 🐉 Loong Project
 
-Project Loong is a collaborative effort to explore whether reasoning-capable models can bootstrap themselves from small, high-quality **seed datasets** by generating synthetic data — and verifying LLM agent responses.
+🐉 Loong Project is a collaborative effort to explore whether reasoning-capable models can bootstrap themselves from small, high-quality **seed datasets** by generating synthetic data — and verifying LLM agent responses.
 
 This repository contains:
 
