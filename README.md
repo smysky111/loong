@@ -24,11 +24,8 @@
 [CAMEL-AI](https://www.camel-ai.org/)
 </h4>
 
-</div>
-
 <br>
 
-<div align="center">
 🐉 Loong Project is a collaborative effort to explore whether reasoning-capable models can bootstrap themselves from small, high-quality **seed datasets** by generating synthetic data and verifying LLM agent responses.
 
 <br>
