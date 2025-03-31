@@ -62,7 +62,7 @@ We're looking for:
 - Cookbook improvements
 - Experimental environments for RL
 
-Get started: [CONTRIBUTING.md](./CONTRIBUTING.md)
+Get started: [CONTRIBUTING.md](data/CONTRIBUTING.md)
 
 ---
 
