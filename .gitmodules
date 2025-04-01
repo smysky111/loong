@@ -1,6 +1,0 @@
-[submodule "cookbooks/camel"]
-	path = cookbooks/camel
-	url = https://github.com/camel-ai/camel/
-[submodule "camel"]
-	path = camel
-	url = https://github.com/camel-ai/camel/
