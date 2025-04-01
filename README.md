@@ -11,6 +11,8 @@
 [![Discord][discord-image]][discord-url]
 [![X][x-image]][x-url]
 [![Reddit][reddit-image]][reddit-url]
+[![Wechat][wechat-image]][wechat-url]
+[![Wechat][loong-image]][loong-url]
 [![Hugging Face][huggingface-image]][huggingface-url]
 [![Star][star-image]][star-url]
 [![Package License][package-license-image]][package-license-url]
@@ -118,14 +120,21 @@ If you're keen on exploring new research opportunities or discoveries with our p
 
 <br>
 
-- Join us ([*Discord*](https://discord.camel-ai.org/) or [*WeChat*](https://ghli.org/camel/wechat.png)) in pushing the boundaries of finding the scaling laws of agents. 
+- Join us ([*Discord*](https://discord.camel-ai.org/) or [*WeChat*](assets/wechat.jpg)) in pushing the boundaries of finding the scaling laws of agents. 
+- Join WechatGroup for further discussions!
+
+<br>
+
+<div align="">
+  <img src="assets/wechatgroup.jpg" alt="WeChat Group QR Code">
+</div>
 
 [discord-image]: https://img.shields.io/discord/1082486657678311454?logo=discord&labelColor=%20%235462eb&logoColor=%20%23f5f5f5&color=%20%235462eb
 [discord-url]: https://discord.camel-ai.org/
 [huggingface-image]: https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-CAMEL--AI-ffc107?color=ffc107&logoColor=white
 [huggingface-url]: https://huggingface.co/datasets/camel-ai/loong
-[oasis-image]: https://img.shields.io/badge/WeChat-OASISProject-brightgreen?logo=wechat&logoColor=white
-[oasis-url]: ./assets/oasis_wechat.jpg
+[loong-image]: https://img.shields.io/badge/WeChat-ProjectLoong-brightgreen?logo=wechat&logoColor=white
+[loong-url]: ./assets/wechatgroup.jpg
 [package-license-image]: https://img.shields.io/badge/License-Apache_2.0-blue.svg
 [package-license-url]: https://github.com/camel-ai/oasis/blob/main/licenses/LICENSE
 [reddit-image]: https://img.shields.io/reddit/subreddit-subscribers/CamelAI?style=plastic&logo=reddit&label=r%2FCAMEL&labelColor=white
@@ -133,6 +142,6 @@ If you're keen on exploring new research opportunities or discoveries with our p
 [star-image]: https://img.shields.io/github/stars/camel-ai/oasis?label=stars&logo=github&color=brightgreen
 [star-url]: https://github.com/camel-ai/loong/stargazers
 [wechat-image]: https://img.shields.io/badge/WeChat-CamelAIOrg-brightgreen?logo=wechat&logoColor=white
-[wechat-url]: ./assets/wechat.JPGwechat.jpg
+[wechat-url]: ./assets/wechat.jpg
 [x-image]: https://img.shields.io/twitter/follow/CamelAIOrg?style=social
 [x-url]: https://x.com/CamelAIOrg
