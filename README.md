@@ -32,9 +32,18 @@
 
 <br>
 
-🌟 Star **Loong** on GitHub and be instantly notified of new releases.
+🌟 Star **Loong** on GitHub to stay updated, or join our **Initiative Program**
 
 <img src="assets/star.gif" width="40px">
+
+We invite researchers and developers to contribute seed datasets, verifiers, and ideas to help improve and extend our project. Ready to join? Click the link below to apply now.
+
+<br>
+  
+<a href="https://www.camel-ai.org/collaboration-questionnaire">
+    <img src="assets/initiative_banner.png" alt=initiative_banner width="50%">
+</a>
+
 </div>
 
 <br>
