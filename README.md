@@ -20,7 +20,7 @@
 <h4>
 
 [Community](https://github.com/camel-ai/camel#community) |
-[Cookbook](https://github.com/camel-ai/oasis/tree/main/scripts) |
+[Cookbook](https://github.com/camel-ai/loong/tree/main/cookbooks) |
 [Datasets](https://huggingface.co/datasets/camel-ai/loong) |
 [Contributing](data/CONTRIBUTING.md) |
 [CAMEL-AI](https://www.camel-ai.org/)
@@ -145,10 +145,10 @@ If you're keen on exploring new research opportunities or discoveries with our p
 [loong-image]: https://img.shields.io/badge/WeChat-ProjectLoong-brightgreen?logo=wechat&logoColor=white
 [loong-url]: ./assets/wechatgroup.jpg
 [package-license-image]: https://img.shields.io/badge/License-Apache_2.0-blue.svg
-[package-license-url]: https://github.com/camel-ai/oasis/blob/main/licenses/LICENSE
+[package-license-url]: https://github.com/camel-ai/loong/blob/main/LICENSE
 [reddit-image]: https://img.shields.io/reddit/subreddit-subscribers/CamelAI?style=plastic&logo=reddit&label=r%2FCAMEL&labelColor=white
 [reddit-url]: https://www.reddit.com/r/CamelAI/
-[star-image]: https://img.shields.io/github/stars/camel-ai/oasis?label=stars&logo=github&color=brightgreen
+[star-image]: https://img.shields.io/github/stars/camel-ai/loong?label=stars&logo=github&color=brightgreen
 [star-url]: https://github.com/camel-ai/loong/stargazers
 [wechat-image]: https://img.shields.io/badge/WeChat-CamelAIOrg-brightgreen?logo=wechat&logoColor=white
 [wechat-url]: ./assets/wechat.jpg
