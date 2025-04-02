@@ -22,6 +22,7 @@
 [Community](https://github.com/camel-ai/camel#community) |
 [Cookbook](https://github.com/camel-ai/loong/tree/main/cookbooks) |
 [Datasets](https://huggingface.co/datasets/camel-ai/loong) |
+[📝 Loong Blog](https://www.camel-ai.org/blogs/project-loong-synthetic-data-at-scale-through-verifiers)
 [Contributing](data/CONTRIBUTING.md) |
 [CAMEL-AI](https://www.camel-ai.org/)
 </h4>
@@ -49,6 +50,13 @@ We invite researchers and developers to contribute seed datasets, verifiers, and
 <br>
 
 ## 🔍 What's in this Repo?
+
+<div align="center">
+  <img src="assets/loongdiagram.png" alt="Project Loong Agent-Environment Loop" width="75%">
+</div>
+
+> **Agent-Environment Loop**: Project Loong leverages a feedback mechanism where a Generator creates synthetic Q&A, a Verifier evaluates answers, and a Trainable Agent learns iteratively — enabling scalable, self-improving reasoning systems.
+
 
 #### 1. 📊 **Seed Datasets** — Real, human-vetted data from computable domains like math, physics, finance, etc.
 #### 2. 📘 **Cookbooks** — Modular scripts for synthetic data generation, verification, and RL training loops.
