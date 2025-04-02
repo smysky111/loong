@@ -49,14 +49,22 @@ We invite researchers and developers to contribute seed datasets, verifiers, and
 
 <br>
 
-## 🔍 What's in this Repo?
+---
+
+## Agent-Environment Loop
 
 <div align="center">
-  <img src="assets/loongdiagram.png" alt="Project Loong Agent-Environment Loop" width="75%">
+  <img src="assets/loongdiagram.png" alt="Project Loong Agent-Environment Loop" width="100%">
 </div>
 
-> **Agent-Environment Loop**: Project Loong leverages a feedback mechanism where a Generator creates synthetic Q&A, a Verifier evaluates answers, and a Trainable Agent learns iteratively — enabling scalable, self-improving reasoning systems.
+Project Loong leverages a **Generator** to create synthetic questions/answers from seed datasets, while a **Verifier** evaluates 
+the correctness of those responses. A **Trainable Agent** then learns iteratively from these verified Q&As, enabling scalable 
+self-improvement through reinforcement learning and more advanced strategies.
 
+---
+
+
+## 🔍 What's in this Repo?
 
 #### 1. 📊 **Seed Datasets** — Real, human-vetted data from computable domains like math, physics, finance, etc.
 #### 2. 📘 **Cookbooks** — Modular scripts for synthetic data generation, verification, and RL training loops.
