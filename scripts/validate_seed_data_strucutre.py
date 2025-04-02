@@ -30,7 +30,7 @@ def load_json(filepath):
 def is_valid_license(license_str):
     return license_str in PERMISSIVE_LICENSES
 
-def validate_entry(entry, idx, domain):
+def validate_entry(entry, idx):
     errors = []
     if not isinstance(entry, dict):
         errors.append(f"[{idx}] Not a dictionary.")
@@ -53,17 +53,7 @@ def validate_entry(entry, idx, domain):
     if license_val and not is_valid_license(license_val):
         errors.append(f"[{idx}] Invalid license: {license_val}")
 
-    entry_domain = metadata.get("domain")
-    if entry_domain and entry_domain != domain:
-        errors.append(f"[{idx}] Domain mismatch: expected '{domain}', got '{entry_domain}'")
-
     return errors
-
-def infer_domain_from_path(path):
-    parts = path.split(os.sep)
-    if len(parts) >= 2:
-        return parts[1]  # e.g., data/games/blackjack/seed.json → games
-    return None
 
 def validate_seed_file(path):
     errors = []
@@ -75,12 +65,22 @@ def validate_seed_file(path):
     if not isinstance(data, list):
         return [f"{path}: Must be a list of entries"]
 
-    domain = infer_domain_from_path(path)
-    if not domain:
-        return [f"{path}: Couldn't infer domain from path"]
+    domains_seen = set()
 
     for idx, entry in enumerate(data):
-        errors.extend([f"{path} {e}" for e in validate_entry(entry, idx, domain)])
+        metadata = entry.get("metadata", {})
+        if isinstance(metadata, dict):
+            domain = metadata.get("domain")
+            if domain:
+                domains_seen.add(domain)
+
+        errors.extend([f"{path} {e}" for e in validate_entry(entry, idx)])
+
+    if len(domains_seen) > 1:
+        errors.append(f"{path}: Inconsistent domains found: {sorted(domains_seen)}")
+    elif not domains_seen:
+        errors.append(f"{path}: No valid domain found in any entries")
+
     return errors
 
 def main():
