@@ -47,7 +47,7 @@ Each datapoint **must** follow this schema:
 - `rationale`: Code that generates the answer — this is what gets verified.
 - `metadata` (REQUIRED):
   - `license`: Licensing info (e.g., `MIT`, `CC BY 4.0`)
-  - `source`: Origin or reference of the data
+  - `source`: Origin or reference of the data (for example URL)
   - `domain`: Must match one of our supported domains (e.g. `"Physics"`, `"Finance"`)
 - `metadata` (OPTIONAL): Arbitrary metadata: difficulty (numerical scale), tags, units, subdomains, domain-specific metadata, etc.
 

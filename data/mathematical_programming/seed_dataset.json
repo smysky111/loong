@@ -7,7 +7,8 @@
       "problem_id": "rcs",
       "source": "https://github.com/scipopt/PySCIPOpt/blob/master/examples/finished/rcs.py",
       "library": "SCIP",
-      "license": "MIT"
+      "license": "MIT",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -18,7 +19,8 @@
       "problem_id": "flp",
       "source": "https://github.com/scipopt/PySCIPOpt/blob/master/examples/finished/flp.py",
       "library": "SCIP",
-      "license": "MIT"
+      "license": "MIT",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -29,7 +31,8 @@
       "problem_id": "even",
       "source": "https://github.com/scipopt/PySCIPOpt/blob/master/examples/finished/even.py",
       "library": "SCIP",
-      "license": "MIT"
+      "license": "MIT",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -40,7 +43,8 @@
       "problem_id": "diet",
       "source": "https://github.com/scipopt/PySCIPOpt/blob/master/examples/finished/diet.py",
       "library": "SCIP",
-      "license": "MIT"
+      "license": "MIT",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -51,7 +55,8 @@
       "problem_id": "sudoku",
       "source": "https://github.com/scipopt/PySCIPOpt/blob/master/examples/finished/sudoku.py",
       "library": "SCIP",
-      "license": "MIT"
+      "license": "MIT",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -62,7 +67,8 @@
       "problem_id": "tsp",
       "source": "https://github.com/scipopt/PySCIPOpt/blob/master/examples/finished/atsp.py",
       "library": "SCIP",
-      "license": "MIT"
+      "license": "MIT",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -73,7 +79,8 @@
       "problem_id": "bpp",
       "source": "https://github.com/scipopt/PySCIPOpt/blob/master/examples/finished/bpp.py",
       "library": "SCIP",
-      "license": "MIT"
+      "license": "MIT",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -84,7 +91,8 @@
       "problem_id": "mctransp",
       "source": "https://github.com/scipopt/PySCIPOpt/blob/master/examples/finished/mctransp.py",
       "library": "SCIP",
-      "license": "MIT"
+      "license": "MIT",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -95,7 +103,8 @@
       "problem_id": "ssp",
       "source": "https://github.com/scipopt/PySCIPOpt/blob/master/examples/finished/ssp.py",
       "library": "SCIP",
-      "license": "MIT"
+      "license": "MIT",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -106,7 +115,8 @@
       "problem_id": "pfs",
       "source": "https://github.com/scipopt/PySCIPOpt/blob/master/examples/finished/pfs.py",
       "library": "SCIP",
-      "license": "MIT"
+      "license": "MIT",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -117,8 +127,9 @@
       "problem_id": "technician_routing_scheduling",
       "version": "12.0.1",
       "library": "gurobi",
-      "license": "Apache License version 2",
-      "source": "https://github.com/Gurobi/modeling-examples"
+      "license": "Apache-2.0",
+      "source": "https://github.com/Gurobi/modeling-examples",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -129,8 +140,9 @@
       "problem_id": "economic_planning",
       "version": "12.0.1",
       "library": "gurobi",
-      "license": "Apache License version 2",
-      "source": "https://github.com/Gurobi/modeling-examples"
+      "license": "Apache-2.0",
+      "source": "https://github.com/Gurobi/modeling-examples",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -141,8 +153,9 @@
       "problem_id": "cell_tower",
       "version": "12.0.1",
       "library": "gurobi",
-      "license": "Apache License version 2",
-      "source": "https://github.com/Gurobi/modeling-examples"
+      "license": "Apache-2.0",
+      "source": "https://github.com/Gurobi/modeling-examples",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -153,8 +166,9 @@
       "problem_id": "drone_network",
       "version": "12.0.1",
       "library": "gurobi",
-      "license": "Apache License version 2",
-      "source": "https://github.com/Gurobi/modeling-examples"
+      "license": "Apache-2.0",
+      "source": "https://github.com/Gurobi/modeling-examples",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -165,8 +179,9 @@
       "problem_id": "logical_design",
       "version": "12.0.1",
       "library": "gurobi",
-      "license": "Apache License version 2",
-      "source": "https://github.com/Gurobi/modeling-examples"
+      "license": "Apache-2.0",
+      "source": "https://github.com/Gurobi/modeling-examples",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -177,8 +192,9 @@
       "problem_id": "mining",
       "version": "12.0.1",
       "library": "gurobi",
-      "license": "Apache License version 2",
-      "source": "https://github.com/Gurobi/modeling-examples"
+      "license": "Apache-2.0",
+      "source": "https://github.com/Gurobi/modeling-examples",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -189,8 +205,9 @@
       "problem_id": "supply_network_design_1",
       "version": "12.0.1",
       "library": "gurobi",
-      "license": "Apache License version 2",
-      "source": "https://github.com/Gurobi/modeling-examples"
+      "license": "Apache-2.0",
+      "source": "https://github.com/Gurobi/modeling-examples",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -201,8 +218,9 @@
       "problem_id": "marketing_campaign_optimization",
       "version": "12.0.1",
       "library": "gurobi",
-      "license": "Apache License version 2",
-      "source": "https://github.com/Gurobi/modeling-examples"
+      "license": "Apache-2.0",
+      "source": "https://github.com/Gurobi/modeling-examples",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -213,8 +231,9 @@
       "problem_id": "colgen-cutting_stock",
       "version": "12.0.1",
       "library": "gurobi",
-      "license": "Apache License version 2",
-      "source": "https://github.com/Gurobi/modeling-examples"
+      "license": "Apache-2.0",
+      "source": "https://github.com/Gurobi/modeling-examples",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -225,8 +244,9 @@
       "problem_id": "price_optimization_with_competing_products",
       "version": "12.0.1",
       "library": "gurobi",
-      "license": "Apache License version 2",
-      "source": "https://github.com/Gurobi/modeling-examples"
+      "license": "Apache-2.0",
+      "source": "https://github.com/Gurobi/modeling-examples",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -237,8 +257,9 @@
       "problem_id": "Exercise_Set2",
       "version": "12.0.1",
       "library": "gurobi",
-      "license": "Apache License version 2",
-      "source": "https://github.com/Gurobi/modeling-examples"
+      "license": "Apache-2.0",
+      "source": "https://github.com/Gurobi/modeling-examples",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -249,8 +270,9 @@
       "problem_id": "completed_Exercise_Set2",
       "version": "12.0.1",
       "library": "gurobi",
-      "license": "Apache License version 2",
-      "source": "https://github.com/Gurobi/modeling-examples"
+      "license": "Apache-2.0",
+      "source": "https://github.com/Gurobi/modeling-examples",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -261,8 +283,9 @@
       "problem_id": "completed_Exercise_Set2",
       "version": "12.0.1",
       "library": "gurobi",
-      "license": "Apache License version 2",
-      "source": "https://github.com/Gurobi/modeling-examples"
+      "license": "Apache-2.0",
+      "source": "https://github.com/Gurobi/modeling-examples",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -273,8 +296,9 @@
       "problem_id": "decentralization_planning",
       "version": "12.0.1",
       "library": "gurobi",
-      "license": "Apache License version 2",
-      "source": "https://github.com/Gurobi/modeling-examples"
+      "license": "Apache-2.0",
+      "source": "https://github.com/Gurobi/modeling-examples",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -285,8 +309,9 @@
       "problem_id": "milp_tutorial_RAP_problem_002",
       "version": "12.0.1",
       "library": "gurobi",
-      "license": "Apache License version 2",
-      "source": "https://github.com/Gurobi/modeling-examples"
+      "license": "Apache-2.0",
+      "source": "https://github.com/Gurobi/modeling-examples",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -297,8 +322,9 @@
       "problem_id": "offshore_wind_farming",
       "version": "12.0.1",
       "library": "gurobi",
-      "license": "Apache License version 2",
-      "source": "https://github.com/Gurobi/modeling-examples"
+      "license": "Apache-2.0",
+      "source": "https://github.com/Gurobi/modeling-examples",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -309,8 +335,9 @@
       "problem_id": "food_manufacture_1",
       "version": "12.0.1",
       "library": "gurobi",
-      "license": "Apache License version 2",
-      "source": "https://github.com/Gurobi/modeling-examples"
+      "license": "Apache-2.0",
+      "source": "https://github.com/Gurobi/modeling-examples",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -321,8 +348,9 @@
       "problem_id": "modeling2",
       "version": "12.0.1",
       "library": "gurobi",
-      "license": "Apache License version 2",
-      "source": "https://github.com/Gurobi/modeling-examples"
+      "license": "Apache-2.0",
+      "source": "https://github.com/Gurobi/modeling-examples",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -333,8 +361,9 @@
       "version": "12.0.1",
       "problem_id": "bike_rebalancing_complete",
       "library": "gurobi",
-      "license": "Apache License version 2",
-      "source": "https://github.com/Gurobi/modeling-examples"
+      "license": "Apache-2.0",
+      "source": "https://github.com/Gurobi/modeling-examples",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -345,8 +374,9 @@
       "version": "12.0.1",
       "problem_id": "food_manufacture_2",
       "library": "gurobi",
-      "license": "Apache License version 2",
-      "source": "https://github.com/Gurobi/modeling-examples"
+      "license": "Apache-2.0",
+      "source": "https://github.com/Gurobi/modeling-examples",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -357,8 +387,9 @@
       "version": "12.0.1",
       "problem_id": "electrical_power_2",
       "library": "gurobi",
-      "license": "Apache License version 2",
-      "source": "https://github.com/Gurobi/modeling-examples"
+      "license": "Apache-2.0",
+      "source": "https://github.com/Gurobi/modeling-examples",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -369,8 +400,9 @@
       "version": "12.0.1",
       "problem_id": "opencast_mining",
       "library": "gurobi",
-      "license": "Apache License version 2",
-      "source": "https://github.com/Gurobi/modeling-examples"
+      "license": "Apache-2.0",
+      "source": "https://github.com/Gurobi/modeling-examples",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -381,8 +413,9 @@
       "version": "12.0.1",
       "problem_id": "refinery",
       "library": "gurobi",
-      "license": "Apache License version 2",
-      "source": "https://github.com/Gurobi/modeling-examples"
+      "license": "Apache-2.0",
+      "source": "https://github.com/Gurobi/modeling-examples",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -393,8 +426,9 @@
       "problem_id": "text_dissimilarity",
       "version": "12.0.1",
       "library": "gurobi",
-      "license": "Apache License version 2",
-      "source": "https://github.com/Gurobi/modeling-examples"
+      "license": "Apache-2.0",
+      "source": "https://github.com/Gurobi/modeling-examples",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -405,8 +439,9 @@
       "problem_id": "supply_network_design_2",
       "version": "12.0.1",
       "library": "gurobi",
-      "license": "Apache License version 2",
-      "source": "https://github.com/Gurobi/modeling-examples"
+      "license": "Apache-2.0",
+      "source": "https://github.com/Gurobi/modeling-examples",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -417,8 +452,9 @@
       "problem_id": "factory_planning_2",
       "version": "12.0.1",
       "library": "gurobi",
-      "license": "Apache License version 2",
-      "source": "https://github.com/Gurobi/modeling-examples"
+      "license": "Apache-2.0",
+      "source": "https://github.com/Gurobi/modeling-examples",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -429,8 +465,9 @@
       "problem_id": "introduction_to_modeling",
       "version": "12.0.1",
       "library": "gurobi",
-      "license": "Apache License version 2",
-      "source": "https://github.com/Gurobi/modeling-examples"
+      "license": "Apache-2.0",
+      "source": "https://github.com/Gurobi/modeling-examples",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -441,8 +478,9 @@
       "problem_id": "efficiency_analysis",
       "version": "12.0.1",
       "library": "gurobi",
-      "license": "Apache License version 2",
-      "source": "https://github.com/Gurobi/modeling-examples"
+      "license": "Apache-2.0",
+      "source": "https://github.com/Gurobi/modeling-examples",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -453,8 +491,9 @@
       "problem_id": "electrical_power_1",
       "version": "12.0.1",
       "library": "gurobi",
-      "license": "Apache License version 2",
-      "source": "https://github.com/Gurobi/modeling-examples"
+      "license": "Apache-2.0",
+      "source": "https://github.com/Gurobi/modeling-examples",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -465,8 +504,9 @@
       "problem_id": "fantasy_basketball_part2",
       "version": "12.0.1",
       "library": "gurobi",
-      "license": "Apache License version 2",
-      "source": "https://github.com/Gurobi/modeling-examples"
+      "license": "Apache-2.0",
+      "source": "https://github.com/Gurobi/modeling-examples",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -477,8 +517,9 @@
       "problem_id": "market_sharing",
       "version": "12.0.1",
       "library": "gurobi",
-      "license": "Apache License version 2",
-      "source": "https://github.com/Gurobi/modeling-examples"
+      "license": "Apache-2.0",
+      "source": "https://github.com/Gurobi/modeling-examples",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -489,8 +530,9 @@
       "problem_id": "airlineplanning",
       "version": "12.0.1",
       "library": "gurobi",
-      "license": "Apache License version 2",
-      "source": "https://github.com/Gurobi/modeling-examples"
+      "license": "Apache-2.0",
+      "source": "https://github.com/Gurobi/modeling-examples",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -501,8 +543,9 @@
       "problem_id": "agricultural_pricing",
       "version": "12.0.1",
       "library": "gurobi",
-      "license": "Apache License version 2",
-      "source": "https://github.com/Gurobi/modeling-examples"
+      "license": "Apache-2.0",
+      "source": "https://github.com/Gurobi/modeling-examples",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -513,8 +556,9 @@
       "problem_id": "modeling1",
       "version": "12.0.1",
       "library": "gurobi",
-      "license": "Apache License version 2",
-      "source": "https://github.com/Gurobi/modeling-examples"
+      "license": "Apache-2.0",
+      "source": "https://github.com/Gurobi/modeling-examples",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -525,8 +569,9 @@
       "problem_id": "price_optimization",
       "version": "12.0.1",
       "library": "gurobi",
-      "license": "Apache License version 2",
-      "source": "https://github.com/Gurobi/modeling-examples"
+      "license": "Apache-2.0",
+      "source": "https://github.com/Gurobi/modeling-examples",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -537,8 +582,9 @@
       "problem_id": "car_rental_2",
       "version": "12.0.1",
       "library": "gurobi",
-      "license": "Apache License version 2",
-      "source": "https://github.com/Gurobi/modeling-examples"
+      "license": "Apache-2.0",
+      "source": "https://github.com/Gurobi/modeling-examples",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -549,8 +595,9 @@
       "problem_id": "3d_tic_tac_toe",
       "version": "12.0.1",
       "library": "gurobi",
-      "license": "Apache License version 2",
-      "source": "https://github.com/Gurobi/modeling-examples"
+      "license": "Apache-2.0",
+      "source": "https://github.com/Gurobi/modeling-examples",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -561,8 +608,9 @@
       "problem_id": "farm_planning",
       "version": "12.0.1",
       "library": "gurobi",
-      "license": "Apache License version 2",
-      "source": "https://github.com/Gurobi/modeling-examples"
+      "license": "Apache-2.0",
+      "source": "https://github.com/Gurobi/modeling-examples",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -573,8 +621,9 @@
       "problem_id": "completed_modeling1",
       "version": "12.0.1",
       "library": "gurobi",
-      "license": "Apache License version 2",
-      "source": "https://github.com/Gurobi/modeling-examples"
+      "license": "Apache-2.0",
+      "source": "https://github.com/Gurobi/modeling-examples",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -585,8 +634,9 @@
       "problem_id": "completed_modeling2",
       "version": "12.0.1",
       "library": "gurobi",
-      "license": "Apache License version 2",
-      "source": "https://github.com/Gurobi/modeling-examples"
+      "license": "Apache-2.0",
+      "source": "https://github.com/Gurobi/modeling-examples",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -597,8 +647,9 @@
       "problem_id": "car_rental_1",
       "version": "12.0.1",
       "library": "gurobi",
-      "license": "Apache License version 2",
-      "source": "https://github.com/Gurobi/modeling-examples"
+      "license": "Apache-2.0",
+      "source": "https://github.com/Gurobi/modeling-examples",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -609,8 +660,9 @@
       "problem_id": "covid19_facility_location",
       "version": "12.0.1",
       "library": "gurobi",
-      "license": "Apache License version 2",
-      "source": "https://github.com/Gurobi/modeling-examples"
+      "license": "Apache-2.0",
+      "source": "https://github.com/Gurobi/modeling-examples",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -621,8 +673,9 @@
       "problem_id": "factory_planning_1",
       "version": "12.0.1",
       "library": "gurobi",
-      "license": "Apache License version 2",
-      "source": "https://github.com/Gurobi/modeling-examples"
+      "license": "Apache-2.0",
+      "source": "https://github.com/Gurobi/modeling-examples",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -633,8 +686,9 @@
       "problem_id": "price_optimization_gurobiML",
       "version": "12.0.1",
       "library": "gurobi",
-      "license": "Apache License version 2",
-      "source": "https://github.com/Gurobi/modeling-examples"
+      "license": "Apache-2.0",
+      "source": "https://github.com/Gurobi/modeling-examples",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -645,8 +699,9 @@
       "problem_id": "food_supply",
       "version": "12.0.1",
       "library": "gurobi",
-      "license": "Apache License version 2",
-      "source": "https://github.com/Gurobi/modeling-examples"
+      "license": "Apache-2.0",
+      "source": "https://github.com/Gurobi/modeling-examples",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -656,8 +711,9 @@
     "metadata": {
       "problem_id": "maximise_minimum_SINR_BV4.20",
       "library": "cvxpy",
-      "license": "Apache License version 2.0",
-      "source": "https://github.com/cvxpy/cvxpy/"
+      "license": "Apache-2.0",
+      "source": "https://github.com/cvxpy/cvxpy/",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -667,8 +723,9 @@
     "metadata": {
       "problem_id": "min_condition_number_by_scaling",
       "library": "cvxpy",
-      "license": "Apache License version 2.0",
-      "source": "https://github.com/cvxpy/cvxpy/"
+      "license": "Apache-2.0",
+      "source": "https://github.com/cvxpy/cvxpy/",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -678,8 +735,9 @@
     "metadata": {
       "problem_id": "minimum_length_least_squares",
       "library": "cvxpy",
-      "license": "Apache License version 2.0",
-      "source": "https://github.com/cvxpy/cvxpy/"
+      "license": "Apache-2.0",
+      "source": "https://github.com/cvxpy/cvxpy/",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -689,8 +747,9 @@
     "metadata": {
       "problem_id": "mixed_integer_quadratic_program",
       "library": "cvxpy",
-      "license": "Apache License version 2.0",
-      "source": "https://github.com/cvxpy/cvxpy/"
+      "license": "Apache-2.0",
+      "source": "https://github.com/cvxpy/cvxpy/",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -700,8 +759,9 @@
     "metadata": {
       "problem_id": "MM",
       "library": "cvxpy",
-      "license": "Apache License version 2.0",
-      "source": "https://github.com/cvxpy/cvxpy/"
+      "license": "Apache-2.0",
+      "source": "https://github.com/cvxpy/cvxpy/",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -711,8 +771,9 @@
     "metadata": {
       "problem_id": "mTSP_en",
       "library": "cvxpy",
-      "license": "Apache License version 2.0",
-      "source": "https://github.com/cvxpy/cvxpy/"
+      "license": "Apache-2.0",
+      "source": "https://github.com/cvxpy/cvxpy/",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -722,8 +783,9 @@
     "metadata": {
       "problem_id": "optimal_power_gaussian_channel_BV4.62",
       "library": "cvxpy",
-      "license": "Apache License version 2.0",
-      "source": "https://github.com/cvxpy/cvxpy/"
+      "license": "Apache-2.0",
+      "source": "https://github.com/cvxpy/cvxpy/",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -733,8 +795,9 @@
     "metadata": {
       "problem_id": "pf_matrix_completion",
       "library": "cvxpy",
-      "license": "Apache License version 2.0",
-      "source": "https://github.com/cvxpy/cvxpy/"
+      "license": "Apache-2.0",
+      "source": "https://github.com/cvxpy/cvxpy/",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -744,8 +807,9 @@
     "metadata": {
       "problem_id": "power_control",
       "library": "cvxpy",
-      "license": "Apache License version 2.0",
-      "source": "https://github.com/cvxpy/cvxpy/"
+      "license": "Apache-2.0",
+      "source": "https://github.com/cvxpy/cvxpy/",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -755,8 +819,9 @@
     "metadata": {
       "problem_id": "quadratic_program",
       "library": "cvxpy",
-      "license": "Apache License version 2.0",
-      "source": "https://github.com/cvxpy/cvxpy/"
+      "license": "Apache-2.0",
+      "source": "https://github.com/cvxpy/cvxpy/",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -766,8 +831,9 @@
     "metadata": {
       "problem_id": "rank_one_nmf",
       "library": "cvxpy",
-      "license": "Apache License version 2.0",
-      "source": "https://github.com/cvxpy/cvxpy/"
+      "license": "Apache-2.0",
+      "source": "https://github.com/cvxpy/cvxpy/",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -777,8 +843,9 @@
     "metadata": {
       "problem_id": "routing",
       "library": "cvxpy",
-      "license": "Apache License version 2.0",
-      "source": "https://github.com/cvxpy/cvxpy/"
+      "license": "Apache-2.0",
+      "source": "https://github.com/cvxpy/cvxpy/",
+      "domain": "Mathematical_Programming"
     }
   },
   {
@@ -788,8 +855,9 @@
     "metadata": {
       "problem_id": "sdp",
       "library": "cvxpy",
-      "license": "Apache License version 2.0",
-      "source": "https://github.com/cvxpy/cvxpy/"
+      "license": "Apache-2.0",
+      "source": "https://github.com/cvxpy/cvxpy/",
+      "domain": "Mathematical_Programming"
     }
   }
 ]

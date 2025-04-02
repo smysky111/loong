@@ -14,7 +14,7 @@
         "plaintext": "GSPCR",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -36,7 +36,7 @@
         "plaintext": "NQUELUCG",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -58,7 +58,7 @@
         "plaintext": "VZXX",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -80,7 +80,7 @@
         "plaintext": "VCFFW",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -102,7 +102,7 @@
         "plaintext": "VFLLQYBE",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -124,7 +124,7 @@
         "plaintext": "PTRDY",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -146,7 +146,7 @@
         "plaintext": "BDZX",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -169,7 +169,7 @@
         "plaintext": "qOSBALTKkkISKcjZVtsytmSLOQDpJdgFcruGYxuJ",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -192,7 +192,7 @@
         "plaintext": "GCBwzfmxFUuznTTtwzbMRNxhhhagxieBlyUiZr",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -215,7 +215,7 @@
         "plaintext": "bDxLtstrAUqVViNkQlnWzobWSCpEFiyxr",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -238,7 +238,7 @@
         "plaintext": "RbtKxwUnXThFWPfoGAPbFNMzSulpfaUf",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -261,7 +261,7 @@
         "plaintext": "MDRJyjkrwGnBpjaBBleEPWJdpgpjIC",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -284,7 +284,7 @@
         "plaintext": "UPKXHyODiwtccTlpIojsbFqaMoOwHYNWw",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -307,7 +307,7 @@
         "plaintext": "dikmXZKgYvyELmFXqHQTlyXi",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -330,7 +330,7 @@
         "plaintext": "atIZDCiLDBOdYZtDIUoliNmI",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -353,7 +353,7 @@
         "plaintext": "BaYaoILHrovTNxRJaImZeCZvqUwbWESHPHZdUCjH",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -376,7 +376,7 @@
         "plaintext": "rOkONEsTWVzFzMvBXUzaAwEZNLQttXWaQKAtclhJ",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -399,7 +399,7 @@
         "plaintext": "FLGtQFasFUdjafBOhdmAMujI",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -422,7 +422,7 @@
         "plaintext": "peIhXhtvBbdYqnxvmlSgnFWLCwKxDDXsIEkRk",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -445,7 +445,7 @@
         "plaintext": "wcCjqpBAPUEUUiTCcZRnkKZyjgBKvREI",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -468,7 +468,7 @@
         "plaintext": "YDBsCgCcIKqIkHpJXVWTl",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -491,7 +491,7 @@
         "plaintext": "QTyIiwCYtBJljSnCwGAtzrqC",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -514,7 +514,7 @@
         "plaintext": "eCKvMeInwEYoTUHmLmUWrNTawfdoftRPfgnZQJlJ",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -537,7 +537,7 @@
         "plaintext": "NocilcNOJdNMMVreIsKxqwRdUznfmed",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -559,7 +559,7 @@
         "plaintext": "THE TREASURE IS HIDDEN IN THE OLD OAK TREE",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -581,7 +581,7 @@
         "plaintext": "THE QUICK BROWN FOX LEAPS OVER THE LAZY DOG",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -603,7 +603,7 @@
         "plaintext": "THE TREASURE IS HIDDEN IN THE OLD OAK TREE NEAR THE ANCIENT CHURCH",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -625,7 +625,7 @@
         "plaintext": "THE SECRET TREASURE IS BURIED UNDER THE OLD OAK TREE",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -647,7 +647,7 @@
         "plaintext": "A SECRET MESSAGE ENCODED WITH POLYBIUS SQUARE",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -669,7 +669,7 @@
         "plaintext": "WELCOME TO THE WORLD OF CRYPTOGRAPHY WHERE SECRETS LIE HIDDEN IN THE SHADOWS",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -691,7 +691,7 @@
         "plaintext": "IN THE WORLD OF CRYPTOGRAPHY ONE NEEDS TO THINK OUTSIDE THE BOX",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -713,7 +713,7 @@
         "plaintext": "THE TREASURE IS HIDDEN IN THE OLD OAK TREE",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -735,7 +735,7 @@
         "plaintext": "THE QUICK BROWN FOX LEAPS OVER THE LAZY DOG",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -757,7 +757,7 @@
         "plaintext": "THE TREASURE IS HIDDEN IN THE OLD MILL",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -779,7 +779,7 @@
         "plaintext": "CODE BREAKING IS FUN WITH POLYBIUS",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -801,7 +801,7 @@
         "plaintext": "THE EAGLE HAS LANDED ON THE MOON",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -823,7 +823,7 @@
         "plaintext": "ANCIENT SECRETS ARE HIDDEN WITHIN THE GRID",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -845,7 +845,7 @@
         "plaintext": "The treasure is buried under the old oak tree",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -867,7 +867,7 @@
         "plaintext": "The secret lies beneath the ancient sands of time",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -889,7 +889,7 @@
         "plaintext": "Discover the secrets hidden within the ancient scroll",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -911,7 +911,7 @@
         "plaintext": "Treasure lies under the old oak tree",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -933,7 +933,7 @@
         "plaintext": "The sun rises in the east but sets in the west",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -955,7 +955,7 @@
         "plaintext": "The treasure is buried under the old oak tree near the river",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -977,7 +977,7 @@
         "plaintext": "Find the secret path in the labyrinth",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -999,7 +999,7 @@
         "plaintext": "The quick brown fox jumps over the lazy dog",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -1021,7 +1021,7 @@
         "plaintext": "The secret meeting will take place at midnight",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -1043,7 +1043,7 @@
         "plaintext": "The hidden key is underneath the ancient oak tree",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -1065,7 +1065,7 @@
         "plaintext": "The secret lies within the ancient library",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -1087,7 +1087,7 @@
         "plaintext": "The secret lies within the old books of the library",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -1109,7 +1109,7 @@
         "plaintext": "Secrets are hidden in the mirror",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -1131,7 +1131,7 @@
         "plaintext": "Seek the treasure beyond the ancient hills",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -1153,7 +1153,7 @@
         "plaintext": "Unlock the secrets of the ancient texts",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -1175,7 +1175,7 @@
         "plaintext": "Secrets are hidden in plain sight",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -1197,7 +1197,7 @@
         "plaintext": "The secret lies within the ancient forest",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -1219,7 +1219,7 @@
         "plaintext": "The secrets of the ancient order are hidden in the depths",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -1241,7 +1241,7 @@
         "plaintext": "Decipher the ancient script to reveal the secret",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -1263,7 +1263,7 @@
         "plaintext": "The eagle soars high above the mountain peaks.",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -1287,7 +1287,7 @@
         "plaintext": "sjW TkDBG sNnxkM iUNDr hutVIr",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -1311,7 +1311,7 @@
         "plaintext": "OsEYBB VuW",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -1335,7 +1335,7 @@
         "plaintext": "eTh IVCMBs UdPWI NZcT",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -1359,7 +1359,7 @@
         "plaintext": "Ieyj rFmTlI vYGBP iQA nOGl",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -1383,7 +1383,7 @@
         "plaintext": "vXxo vpZACy",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -1407,7 +1407,7 @@
         "plaintext": "mQxaSs hKrq",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -1431,7 +1431,7 @@
         "plaintext": "qdve Nnk wmc",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -1455,7 +1455,7 @@
         "plaintext": "PLiWeJ SWb",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -1479,7 +1479,7 @@
         "plaintext": "uDjfD ZuULb gIs fUYMf",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -1503,7 +1503,7 @@
         "plaintext": "Fgf CvDkd",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -1527,7 +1527,7 @@
         "plaintext": "JoyncX lMclzQ Hdvq MkHJ FYzBv",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -1551,7 +1551,7 @@
         "plaintext": "rRHe kXWcnj",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -1575,7 +1575,7 @@
         "plaintext": "kmJ ISt bSlORQ JWh",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -1599,7 +1599,7 @@
         "plaintext": "qEobB Vtfz",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -1623,7 +1623,7 @@
         "plaintext": "DTqOVP phfJEh TCyB",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -1647,7 +1647,7 @@
         "plaintext": "KRd aqgQCC sYZD VlK wUgkP",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -1670,7 +1670,7 @@
         "key": "ESPIONAGE",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -1693,7 +1693,7 @@
         "key": "INTELLIGENCE",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -1716,7 +1716,7 @@
         "key": "LONDON",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -1739,7 +1739,7 @@
         "key": "ADVENTURE",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -1761,7 +1761,7 @@
         "plaintext": "qecci eltjlu",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -1783,7 +1783,7 @@
         "plaintext": "nqk filn",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -1805,7 +1805,7 @@
         "plaintext": "dfclaf cmexo tknxgo oavcau",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -1827,7 +1827,7 @@
         "plaintext": "kvu ocza",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -1849,7 +1849,7 @@
         "plaintext": "euv iiq",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -1871,7 +1871,7 @@
         "plaintext": "zyesm utmbjl",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -1893,7 +1893,7 @@
         "plaintext": "lstzn uqyytc",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -1915,7 +1915,7 @@
         "plaintext": "kcl ixjj",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -1937,7 +1937,7 @@
         "plaintext": "iksn dtlt",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -1959,7 +1959,7 @@
         "plaintext": "xftxe bkzlze",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -1981,7 +1981,7 @@
         "plaintext": "qoz lrr",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -2003,7 +2003,7 @@
         "plaintext": "vvfrga gcl",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -2025,7 +2025,7 @@
         "plaintext": "ykid mvs ojna",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -2047,7 +2047,7 @@
         "plaintext": "mgiq dyd ydeq xmiz",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -2069,7 +2069,7 @@
         "plaintext": "xyttq gbdh zdl",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -2091,7 +2091,7 @@
         "plaintext": "rnsrf urnvs",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -2114,7 +2114,7 @@
         "keyword": "CRYPTOLOGY",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -2137,7 +2137,7 @@
         "keyword": "ENIGMA",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -2160,7 +2160,7 @@
         "keyword": "CIPHER",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -2183,7 +2183,7 @@
         "keyword": "CIPHER",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -2206,7 +2206,7 @@
         "keyword": "CHESSMASTER",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -2229,7 +2229,7 @@
         "keyword": "CRYPTOGRAPHY",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -2252,7 +2252,7 @@
         "keyword": "CIPHER",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -2275,7 +2275,7 @@
         "keyword": "CIPHERKEY",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -2298,7 +2298,7 @@
         "keyword": "CRYPTOGRAPHY",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -2321,7 +2321,7 @@
         "keyword": "CRYPTOGRAPHY",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -2344,7 +2344,7 @@
         "keyword": "CIPHERCLUE",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -2367,7 +2367,7 @@
         "keyword": "SPYMASTER",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -2391,7 +2391,7 @@
         "b": 7,
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -2415,7 +2415,7 @@
         "b": 8,
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -2439,7 +2439,7 @@
         "b": 7,
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -2463,7 +2463,7 @@
         "b": 4,
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -2487,7 +2487,7 @@
         "b": 8,
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -2511,7 +2511,7 @@
         "b": 7,
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -2535,7 +2535,7 @@
         "b": 7,
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -2559,7 +2559,7 @@
         "b": 4,
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -2583,7 +2583,7 @@
         "b": 4,
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -2607,7 +2607,7 @@
         "b": 4,
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -2631,7 +2631,7 @@
         "b": 7,
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -2655,7 +2655,7 @@
         "b": 4,
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -2679,7 +2679,7 @@
         "b": 7,
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -2703,7 +2703,7 @@
         "b": 4,
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -2727,7 +2727,7 @@
         "b": 7,
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -2751,7 +2751,7 @@
         "b": 19,
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -2775,7 +2775,7 @@
         "b": 7,
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -2799,7 +2799,7 @@
         "b": 5,
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -2823,7 +2823,7 @@
         "b": 3,
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -2847,7 +2847,7 @@
         "b": 7,
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -2871,7 +2871,7 @@
         "b": 7,
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -2895,7 +2895,7 @@
         "b": 7,
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -2918,7 +2918,7 @@
         "key": "MYSTERY",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -2941,7 +2941,7 @@
         "key": "LEMON",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -2964,7 +2964,7 @@
         "key": "TRIDENT",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -2987,7 +2987,7 @@
         "key": "MAPLE",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -3010,7 +3010,7 @@
         "key": "ORACLE",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -3033,7 +3033,7 @@
         "key": "MYSTERY",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -3056,7 +3056,7 @@
         "key": "ALPHA",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -3079,7 +3079,7 @@
         "key": "PHARAOH",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -3102,7 +3102,7 @@
         "key": "LEGEND",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -3125,7 +3125,7 @@
         "key": "COSMOS",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -3148,7 +3148,7 @@
         "key": "MAP",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -3171,7 +3171,7 @@
         "key": "CODE",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -3194,7 +3194,7 @@
         "key": "GOLD",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -3217,7 +3217,7 @@
         "key": "MUSIC",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -3240,7 +3240,7 @@
         "key": "DANCE",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -3263,7 +3263,7 @@
         "key": "HAPPINESS",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -3286,7 +3286,7 @@
         "key": "MAPLE",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -3309,7 +3309,7 @@
         "key": "MYSTERY",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -3332,7 +3332,7 @@
         "key": "STEVE",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -3355,7 +3355,7 @@
         "key": "DAWN",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -3378,7 +3378,7 @@
         "key": "HORIZON",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -3409,7 +3409,7 @@
         "e": 3,
         "plaintext": "PCTF{secure_channel_open}"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -3440,7 +3440,7 @@
         "e": 3,
         "plaintext": "PCTF{legacy_decryption_successful}"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -3471,7 +3471,7 @@
         "e": 3,
         "plaintext": "PCTF{broadcast_pwned}"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -3502,7 +3502,7 @@
         "e": 3,
         "plaintext": "PCTF{orbit_command_decoded}"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -3533,7 +3533,7 @@
         "e": 3,
         "plaintext": "PCTF{conference_key_leaked}"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -3565,7 +3565,7 @@
         "plaintext": "Gt",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -3613,7 +3613,7 @@
         "plaintext": "eZck",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -3685,7 +3685,7 @@
         "plaintext": "oNJXcYpoiDxChVYyGX",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -3724,7 +3724,7 @@
         "plaintext": "VTlDubYpR",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -3772,7 +3772,7 @@
         "plaintext": "TeUN",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -3820,7 +3820,7 @@
         "plaintext": "UeBX",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -3868,7 +3868,7 @@
         "plaintext": "CGER",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -3940,7 +3940,7 @@
         "plaintext": "xOVlwrAVMYuExEPXJB",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -3972,7 +3972,7 @@
         "plaintext": "uM",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -4011,7 +4011,7 @@
         "plaintext": "uIDqXQovA",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -4059,7 +4059,7 @@
         "plaintext": "paJW",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -4091,7 +4091,7 @@
         "plaintext": "tFEx",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -4114,7 +4114,7 @@
         "plaintext": "NEVT HQXCBB UDUNV NNK FWKKV",
         "compute": "3"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -4137,7 +4137,7 @@
         "plaintext": "TDYT JUWS HSP WGQMKZ SHKZZR ACV",
         "compute": "3"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -4160,7 +4160,7 @@
         "plaintext": "LEVVBA MZSYIC BLQZ",
         "compute": "3"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -4183,7 +4183,7 @@
         "plaintext": "TMTQ DLFTKF LYDH ENHJMM BWP BLXIE",
         "compute": "3"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -4206,7 +4206,7 @@
         "plaintext": "EDZHH QMY PIF CTXGT",
         "compute": "3"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -4229,7 +4229,7 @@
         "plaintext": "SFIXB AGZWD KXGC PGV ITBY",
         "compute": "3"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -4252,7 +4252,7 @@
         "plaintext": "UBYFC GFEQA LJCR",
         "compute": "3"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -4275,7 +4275,7 @@
         "plaintext": "PROFC UTK HIUB DZV",
         "compute": "3"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -4298,7 +4298,7 @@
         "plaintext": "YXVW UIDBY IVO FTFOQN OLV",
         "compute": "3"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -4321,7 +4321,7 @@
         "plaintext": "WSC FDB FEOVBA AFX",
         "compute": "3"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -4344,7 +4344,7 @@
         "plaintext": "JIWFW UUUPGY VDRRZ ZSNU MEO",
         "compute": "3"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -4367,7 +4367,7 @@
         "plaintext": "BGIM OCQ CDBLOW WBG YIXG",
         "compute": "3"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -4390,7 +4390,7 @@
         "plaintext": "UJV KBWUUK MQG",
         "compute": "3"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -4413,7 +4413,7 @@
         "plaintext": "YKEOK PSR LDUPP",
         "compute": "3"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -4436,7 +4436,7 @@
         "plaintext": "JPBKFU LRHG CFQ XQQFG KPSN",
         "compute": "3"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -4459,7 +4459,7 @@
         "plaintext": "VKXILD JQP NOC SIAXH HIUB TWHYZS",
         "compute": "3"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -4482,7 +4482,7 @@
         "plaintext": "MSE UOHZ KIR YDIYYT",
         "compute": "3"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -4504,7 +4504,7 @@
         "plaintext": "ggbhqn opk mfquc jqoycm",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -4526,7 +4526,7 @@
         "plaintext": "rquh cwsg gag wsr",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -4548,7 +4548,7 @@
         "plaintext": "ynlf gmzzjc gzt",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -4570,7 +4570,7 @@
         "plaintext": "woqke gehmax tdseg cfod",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -4592,7 +4592,7 @@
         "plaintext": "mpi ibxfd qnyfwa",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -4614,7 +4614,7 @@
         "plaintext": "echh qinus iqufy",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -4636,7 +4636,7 @@
         "plaintext": "scad vuvzm vpyo qnbde",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -4658,7 +4658,7 @@
         "plaintext": "umlgxn cmgeqp yuxs zazri",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -4680,7 +4680,7 @@
         "plaintext": "xdmpi ytif lbyihl",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -4702,7 +4702,7 @@
         "plaintext": "xpyyhj qtpc ujwb qgo",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -4724,7 +4724,7 @@
         "plaintext": "gltpyr dpi zssaw ohan",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -4746,7 +4746,7 @@
         "plaintext": "jyqd pie kjo",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -4768,7 +4768,7 @@
         "plaintext": "iicuo sjt mpaw epxgt yls",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -4790,7 +4790,7 @@
         "plaintext": "cgxqk anuqqv liq imzt ghkr",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -4813,7 +4813,7 @@
         "key": 7,
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -4836,7 +4836,7 @@
         "key": 5,
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -4859,7 +4859,7 @@
         "key": 7,
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -4882,7 +4882,7 @@
         "key": 13,
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -4905,7 +4905,7 @@
         "key": 7,
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -4928,7 +4928,7 @@
         "key": 7,
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -4951,7 +4951,7 @@
         "key": 7,
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -4974,7 +4974,7 @@
         "key": 8,
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -4997,7 +4997,7 @@
         "key": 7,
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -5020,7 +5020,7 @@
         "key": 8,
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -5043,7 +5043,7 @@
         "key": 17,
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -5066,7 +5066,7 @@
         "key": 7,
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -5089,7 +5089,7 @@
         "key": 13,
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -5112,7 +5112,7 @@
         "key": 19,
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -5135,7 +5135,7 @@
         "key": 7,
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -5158,7 +5158,7 @@
         "key": 9,
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -5181,7 +5181,7 @@
         "key": 13,
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -5204,7 +5204,7 @@
         "key": 7,
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -5227,7 +5227,7 @@
         "key": 7,
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -5250,7 +5250,7 @@
         "key": 7,
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -5273,7 +5273,7 @@
         "key": 11,
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -5296,7 +5296,7 @@
         "key": 3,
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -5319,7 +5319,7 @@
         "key": 13,
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -5342,7 +5342,7 @@
         "key": 7,
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -5365,7 +5365,7 @@
         "key": 7,
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -5389,7 +5389,7 @@
         "cipher_alphabet": "bjdmnpvzxakswioygtlhfcurqe",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -5413,7 +5413,7 @@
         "cipher_alphabet": "warlkcnvtefhxqopbmiujdzysg",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -5437,7 +5437,7 @@
         "cipher_alphabet": "wqpzbdamlronivejgxycskhuft",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -5461,7 +5461,7 @@
         "cipher_alphabet": "sduvkfempgnqoicbxjyhrlwtza",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -5485,7 +5485,7 @@
         "cipher_alphabet": "zoargukemhjsqfnicbtydvlpwx",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -5509,7 +5509,7 @@
         "cipher_alphabet": "wcoflrymagpzqhjitkdesubvnx",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -5533,7 +5533,7 @@
         "cipher_alphabet": "oyzdpgcuwtqkixehrvabnjsmlf",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -5557,7 +5557,7 @@
         "cipher_alphabet": "lbfoapvqnkrutsmexwyzdhjgci",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -5581,7 +5581,7 @@
         "cipher_alphabet": "lkefwahdrpxzqtucvnjgyisomb",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -5605,7 +5605,7 @@
         "cipher_alphabet": "sijalcktpyhougwnefrzqxmbvd",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -5629,7 +5629,7 @@
         "cipher_alphabet": "egrqlcxtavfmyiupjndwzbhosk",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -5653,7 +5653,7 @@
         "cipher_alphabet": "iwegqbudzckrmypstnalvohjxf",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -5677,7 +5677,7 @@
         "cipher_alphabet": "ubsognhtzflaqvyecmxjrpdikw",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -5701,7 +5701,7 @@
         "cipher_alphabet": "atcvhbkjxldougeyqzmsfriwnp",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -5725,7 +5725,7 @@
         "cipher_alphabet": "ytwqdhkuafvreolipbzjxsmngc",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -5749,7 +5749,7 @@
         "cipher_alphabet": "netivshgwkqolpfzrcuybdxmja",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -5773,7 +5773,7 @@
         "cipher_alphabet": "zerijkhfbqnvpytlswcoxmagdu",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -5797,7 +5797,7 @@
         "cipher_alphabet": "qxmhezpvyfnkwtioadbrjulcsg",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -5821,7 +5821,7 @@
         "cipher_alphabet": "zwnmtxogeshvfcaqdjyilkubrp",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -5845,7 +5845,7 @@
         "cipher_alphabet": "rksjofmixnzwhlcdytgqbevpau",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -5871,7 +5871,7 @@
         "ciphertext": "[8589934592, 495168206759]",
         "compute": 2
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -5897,7 +5897,7 @@
         "ciphertext": "[2147483648, 9773338715807]",
         "compute": 2
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -5923,7 +5923,7 @@
         "ciphertext": "[26122207883653, 7239757206844]",
         "compute": 2
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -5949,7 +5949,7 @@
         "ciphertext": "[16134871590158, 2444712609091]",
         "compute": 2
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -5975,7 +5975,7 @@
         "ciphertext": "[12622503041858, 10775456635987]",
         "compute": 2
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -6001,7 +6001,7 @@
         "ciphertext": "[12564348339055, 7810181966068]",
         "compute": 2
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -6027,7 +6027,7 @@
         "ciphertext": "[268435456, 3144742586494]",
         "compute": 2
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -6053,7 +6053,7 @@
         "ciphertext": "[8192, 4999247301388]",
         "compute": 2
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -6079,7 +6079,7 @@
         "ciphertext": "[20661100423963, 836343476620]",
         "compute": 2
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -6105,7 +6105,7 @@
         "ciphertext": "[17179869184, 8626436276413]",
         "compute": 2
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -6127,7 +6127,7 @@
       },
       "difficulty": "medium",
       "compute": "1",
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -6149,7 +6149,7 @@
       },
       "difficulty": "medium",
       "compute": "1",
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -6171,7 +6171,7 @@
       },
       "difficulty": "medium",
       "compute": "1",
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -6193,7 +6193,7 @@
       },
       "difficulty": "medium",
       "compute": "1",
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -6215,7 +6215,7 @@
       },
       "difficulty": "medium",
       "compute": "1",
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -6237,7 +6237,7 @@
       },
       "difficulty": "medium",
       "compute": "1",
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -6259,7 +6259,7 @@
       },
       "difficulty": "medium",
       "compute": "1",
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -6281,7 +6281,7 @@
       },
       "difficulty": "medium",
       "compute": "1",
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -6303,7 +6303,7 @@
       },
       "difficulty": "medium",
       "compute": "1",
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -6325,7 +6325,7 @@
       },
       "difficulty": "medium",
       "compute": "1",
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -6350,7 +6350,7 @@
         "plaintext": "fire",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -6375,7 +6375,7 @@
         "plaintext": "tree",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -6400,7 +6400,7 @@
         "plaintext": "blue",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -6425,7 +6425,7 @@
         "plaintext": "love",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -6450,7 +6450,7 @@
         "plaintext": "good",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -6475,7 +6475,7 @@
         "plaintext": "cool",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -6500,7 +6500,7 @@
         "plaintext": "moon",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -6525,7 +6525,7 @@
         "plaintext": "hope",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -6547,7 +6547,7 @@
         "key": "gbAbUSUsiAsfMK73",
         "compute": 2
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -6569,7 +6569,7 @@
         "key": "sQR6fkGAZsf1y4X4",
         "compute": 2
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -6591,7 +6591,7 @@
         "key": "AyhoavSzJOoU31CL",
         "compute": 2
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -6613,7 +6613,7 @@
         "key": "J7l0AndsSwqpuwTN",
         "compute": 2
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -6635,7 +6635,7 @@
         "key": "sh5WDB0DREKf6Ss4",
         "compute": 2
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -6657,7 +6657,7 @@
         "key": "1CRWc6vs1WYQHHzk",
         "compute": 2
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -6679,7 +6679,7 @@
         "key": "cfDzjUIY8RWO93iG",
         "compute": 2
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -6701,7 +6701,7 @@
         "key": "McwV0fUadykdS2Qf",
         "compute": 2
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -6723,7 +6723,7 @@
         "key": "ShHUMgzZpnUXDnRC",
         "compute": 2
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -6745,7 +6745,7 @@
         "key": "YkVb2ZZ2WFEraZaj",
         "compute": 2
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -6766,7 +6766,7 @@
       },
       "difficulty": "medium",
       "compute": "1",
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -6787,7 +6787,7 @@
       },
       "difficulty": "medium",
       "compute": "1",
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -6808,7 +6808,7 @@
       },
       "difficulty": "medium",
       "compute": "1",
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -6829,7 +6829,7 @@
       },
       "difficulty": "medium",
       "compute": "1",
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -6850,7 +6850,7 @@
       },
       "difficulty": "medium",
       "compute": "1",
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -6871,7 +6871,7 @@
       },
       "difficulty": "medium",
       "compute": "1",
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -6892,7 +6892,7 @@
       },
       "difficulty": "medium",
       "compute": "1",
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -6913,7 +6913,7 @@
       },
       "difficulty": "medium",
       "compute": "1",
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -6934,7 +6934,7 @@
       },
       "difficulty": "medium",
       "compute": "1",
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -6955,7 +6955,7 @@
       },
       "difficulty": "medium",
       "compute": "1",
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -6978,7 +6978,7 @@
         "compute": "1"
       },
       "difficulty": "easy",
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -7001,7 +7001,7 @@
         "compute": "1"
       },
       "difficulty": "easy",
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -7024,7 +7024,7 @@
         "compute": "1"
       },
       "difficulty": "easy",
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -7047,7 +7047,7 @@
         "compute": "1"
       },
       "difficulty": "easy",
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -7070,7 +7070,7 @@
         "compute": "1"
       },
       "difficulty": "easy",
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -7093,7 +7093,7 @@
         "compute": "1"
       },
       "difficulty": "easy",
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -7116,7 +7116,7 @@
         "compute": "1"
       },
       "difficulty": "easy",
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -7139,7 +7139,7 @@
         "compute": "1"
       },
       "difficulty": "easy",
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -7162,7 +7162,7 @@
         "compute": "1"
       },
       "difficulty": "easy",
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -7185,7 +7185,7 @@
         "compute": "1"
       },
       "difficulty": "easy",
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -7208,7 +7208,7 @@
         "g": 2,
         "compute": 2
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -7231,7 +7231,7 @@
         "g": 2,
         "compute": 2
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -7254,7 +7254,7 @@
         "g": 2,
         "compute": 2
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -7277,7 +7277,7 @@
         "g": 2,
         "compute": 2
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -7300,7 +7300,7 @@
         "g": 2,
         "compute": 2
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -7323,7 +7323,7 @@
         "g": 2,
         "compute": 2
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -7346,7 +7346,7 @@
         "g": 2,
         "compute": 2
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -7369,7 +7369,7 @@
         "g": 2,
         "compute": 2
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -7392,7 +7392,7 @@
         "g": 2,
         "compute": 2
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -7415,7 +7415,7 @@
         "g": 2,
         "compute": 2
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -7443,7 +7443,7 @@
         "ciphertext": "(1702, 3971)",
         "compute": 2
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -7471,7 +7471,7 @@
         "ciphertext": "(533, 2614)",
         "compute": 2
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -7499,7 +7499,7 @@
         "ciphertext": "(1668, 3363)",
         "compute": 2
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -7527,7 +7527,7 @@
         "ciphertext": "(6721, 577)",
         "compute": 2
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -7555,7 +7555,7 @@
         "ciphertext": "(11, 3402)",
         "compute": 2
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -7583,7 +7583,7 @@
         "ciphertext": "(4570, 3660)",
         "compute": 2
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -7611,7 +7611,7 @@
         "ciphertext": "(344, 1720)",
         "compute": 2
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -7639,7 +7639,7 @@
         "ciphertext": "(1566, 1481)",
         "compute": 2
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -7667,7 +7667,7 @@
         "ciphertext": "(5513, 2328)",
         "compute": 2
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -7695,7 +7695,7 @@
         "ciphertext": "(2165, 3881)",
         "compute": 2
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -7720,7 +7720,7 @@
         "compute": "5"
       },
       "difficulty": "easy",
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -7745,7 +7745,7 @@
         "compute": "5"
       },
       "difficulty": "easy",
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -7768,7 +7768,7 @@
         "iv": "3b08f31a5dfbba3b86c2f5ef3c8977da",
         "compute": 2
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -7791,7 +7791,7 @@
         "iv": "4df36d5db52621406b73c616b724e6a1",
         "compute": 2
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -7814,7 +7814,7 @@
         "iv": "60507727427fe8b23432b300d6685cbe",
         "compute": 2
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -7837,7 +7837,7 @@
         "iv": "67718d40ebc7be145074ccabae8deaeb",
         "compute": 2
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -7860,7 +7860,7 @@
         "iv": "03d5c2933b3c94da423a20790528ebad",
         "compute": 2
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -7883,7 +7883,7 @@
         "iv": "380315f2c395d304ba8a87fd2f46df10",
         "compute": 2
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -7906,7 +7906,7 @@
         "iv": "420f70ee06941e6b8318722aa52b33c8",
         "compute": 2
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -7929,7 +7929,7 @@
         "iv": "5c1b99bb6c7f4c404dd93329b28007a3",
         "compute": 2
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -7952,7 +7952,7 @@
         "iv": "5de14a117ffdb647b7ba437a76481d37",
         "compute": 2
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -7975,7 +7975,7 @@
         "iv": "3bdb66c4720d1103d73e899f89806e11",
         "compute": 2
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -8001,7 +8001,7 @@
         "plaintext": "abcd",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -8027,7 +8027,7 @@
         "plaintext": "xyz",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -8053,7 +8053,7 @@
         "plaintext": "1234",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -8079,7 +8079,7 @@
         "plaintext": "qwer",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -8105,7 +8105,7 @@
         "plaintext": "rty",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -8131,7 +8131,7 @@
         "plaintext": "asdz",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -8157,7 +8157,7 @@
         "plaintext": "zxcv",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -8183,7 +8183,7 @@
         "plaintext": "jklm",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -8209,7 +8209,7 @@
         "plaintext": "mnop",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -8235,7 +8235,7 @@
         "plaintext": "pqrs",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -8260,7 +8260,7 @@
         "plaintext": "hey",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -8285,7 +8285,7 @@
         "plaintext": "bye",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -8310,7 +8310,7 @@
         "plaintext": "yes",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -8335,7 +8335,7 @@
         "plaintext": "cat",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -8360,7 +8360,7 @@
         "plaintext": "dog",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -8385,7 +8385,7 @@
         "plaintext": "sun",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -8410,7 +8410,7 @@
         "plaintext": "fun",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -8435,7 +8435,7 @@
         "plaintext": "run",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -8460,7 +8460,7 @@
         "plaintext": "top",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -8485,7 +8485,7 @@
         "plaintext": "big",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -8510,7 +8510,7 @@
         "plaintext": "ab",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -8535,7 +8535,7 @@
         "plaintext": "kl",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -8560,7 +8560,7 @@
         "plaintext": "wx",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -8585,7 +8585,7 @@
         "plaintext": "56",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -8610,7 +8610,7 @@
         "plaintext": "fr",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -8635,7 +8635,7 @@
         "plaintext": "hy",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -8660,7 +8660,7 @@
         "plaintext": "lo",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -8685,7 +8685,7 @@
         "plaintext": "xm",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -8710,7 +8710,7 @@
         "plaintext": "vb",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -8735,7 +8735,7 @@
         "plaintext": "nm",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -8762,7 +8762,7 @@
         "plaintext": "apple",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -8789,7 +8789,7 @@
         "plaintext": "stone",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -8816,7 +8816,7 @@
         "plaintext": "rain",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -8843,7 +8843,7 @@
         "plaintext": "light",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -8870,7 +8870,7 @@
         "plaintext": "cloud",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -8897,7 +8897,7 @@
         "plaintext": "shine",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -8924,7 +8924,7 @@
         "plaintext": "wave",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -8951,7 +8951,7 @@
         "plaintext": "sky",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -8978,7 +8978,7 @@
         "plaintext": "heart",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -9005,7 +9005,7 @@
         "plaintext": "rock",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -9030,7 +9030,7 @@
         "m": 4041991074105419577,
         "compute": 1
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -9055,7 +9055,7 @@
         "m": 2756952453009289511,
         "compute": 1
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -9080,7 +9080,7 @@
         "m": 11327980406963832,
         "compute": 1
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -9105,7 +9105,7 @@
         "m": 7327359990449569,
         "compute": 1
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -9130,7 +9130,7 @@
         "m": 32748202692136,
         "compute": 1
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -9155,7 +9155,7 @@
         "m": 38514512852848,
         "compute": 1
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -9180,7 +9180,7 @@
         "m": 716721600446685895928,
         "compute": 1
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -9205,7 +9205,7 @@
         "m": 2026203951981034508,
         "compute": 1
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -9230,7 +9230,7 @@
         "m": 48387262310302,
         "compute": 1
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -9255,7 +9255,7 @@
         "m": 5094644946067768290,
         "compute": 1
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -9280,7 +9280,7 @@
         "plaintext": "hey",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -9305,7 +9305,7 @@
         "plaintext": "nihao",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -9330,7 +9330,7 @@
         "plaintext": "camel",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -9355,7 +9355,7 @@
         "plaintext": "ai",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -9380,7 +9380,7 @@
         "plaintext": "hi",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -9405,7 +9405,7 @@
         "plaintext": "test",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -9430,7 +9430,7 @@
         "plaintext": "openai",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -9455,7 +9455,7 @@
         "plaintext": "claude",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -9480,7 +9480,7 @@
         "plaintext": "llama",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -9505,7 +9505,7 @@
         "plaintext": "mistral",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -9528,7 +9528,7 @@
         "iv": "dcd7a73044f332804ef4c22dcd792fd2",
         "compute": 2
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -9551,7 +9551,7 @@
         "iv": "5f6775c7057489d07b0eb63c760f4ff4",
         "compute": 2
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -9574,7 +9574,7 @@
         "iv": "e6fd630bafb556b9975da26d9accb692",
         "compute": 2
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -9597,7 +9597,7 @@
         "iv": "001d59e9476aeddfefdd5314c753504f",
         "compute": 2
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -9620,7 +9620,7 @@
         "iv": "9a7089e8a423d268c4a3e5404539b035",
         "compute": 2
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -9643,7 +9643,7 @@
         "iv": "9b564d7e0d6158aa2d1df7b8ec451de8",
         "compute": 2
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -9666,7 +9666,7 @@
         "iv": "4e7e6bf81964c72bdee692a524d3b533",
         "compute": 2
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -9689,7 +9689,7 @@
         "iv": "00b971475ca2d16cbf5fc33ed7321a38",
         "compute": 2
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -9712,7 +9712,7 @@
         "iv": "5de4c6e371ddb5526ce696cd724f4c87",
         "compute": 2
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -9735,7 +9735,7 @@
         "iv": "982c3a67daee1a260ffa5e601d3ffa75",
         "compute": 2
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -9760,7 +9760,7 @@
         "plaintext": "dlt",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -9785,7 +9785,7 @@
         "plaintext": "xsnr",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -9810,7 +9810,7 @@
         "plaintext": "gaj",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -9835,7 +9835,7 @@
         "plaintext": "izb",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -9860,7 +9860,7 @@
         "plaintext": "gth",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -9885,7 +9885,7 @@
         "plaintext": "mtgv",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -9910,7 +9910,7 @@
         "plaintext": "ipxi",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -9935,7 +9935,7 @@
         "plaintext": "qfbc",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -9960,7 +9960,7 @@
         "plaintext": "actm",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -9985,7 +9985,7 @@
         "plaintext": "bct",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -10017,7 +10017,7 @@
         "plaintext": "PCTF{x3y5psdc}",
         "compute": "3"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -10049,7 +10049,7 @@
         "plaintext": "PCTF{osscqjmj}",
         "compute": "3"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -10081,7 +10081,7 @@
         "plaintext": "PCTF{n9t93fls}",
         "compute": "3"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -10113,7 +10113,7 @@
         "plaintext": "PCTF{b01o91v1}",
         "compute": "3"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -10145,7 +10145,7 @@
         "plaintext": "PCTF{3v7g57pr}",
         "compute": "3"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -10177,7 +10177,7 @@
         "plaintext": "PCTF{zvansjv2}",
         "compute": "3"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -10209,7 +10209,7 @@
         "plaintext": "PCTF{l2zsxisn}",
         "compute": "3"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -10241,7 +10241,7 @@
         "plaintext": "PCTF{avhf3fe7}",
         "compute": "3"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -10273,7 +10273,7 @@
         "plaintext": "PCTF{x3z0nspc}",
         "compute": "3"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -10305,7 +10305,7 @@
         "plaintext": "PCTF{e6qgaypu}",
         "compute": "3"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -10330,7 +10330,7 @@
         "plaintext": "abcd",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -10355,7 +10355,7 @@
         "plaintext": "xyz",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -10380,7 +10380,7 @@
         "plaintext": "1234",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -10405,7 +10405,7 @@
         "plaintext": "qwer",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -10430,7 +10430,7 @@
         "plaintext": "rty",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -10455,7 +10455,7 @@
         "plaintext": "asdz",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -10480,7 +10480,7 @@
         "plaintext": "zxcv",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -10505,7 +10505,7 @@
         "plaintext": "jklm",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -10530,7 +10530,7 @@
         "plaintext": "mnop",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -10555,7 +10555,7 @@
         "plaintext": "pqrs",
         "compute": "2"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -10582,7 +10582,7 @@
         "compute": "5"
       },
       "difficulty": "easy",
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -10609,7 +10609,7 @@
         "compute": "5"
       },
       "difficulty": "easy",
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -10636,7 +10636,7 @@
         "compute": "5"
       },
       "difficulty": "easy",
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -10663,7 +10663,7 @@
         "compute": "5"
       },
       "difficulty": "easy",
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -10690,7 +10690,7 @@
         "compute": "5"
       },
       "difficulty": "easy",
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -10717,7 +10717,7 @@
         "compute": "5"
       },
       "difficulty": "easy",
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -10744,7 +10744,7 @@
         "compute": "5"
       },
       "difficulty": "easy",
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -10771,7 +10771,7 @@
         "compute": "5"
       },
       "difficulty": "easy",
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -10798,7 +10798,7 @@
         "compute": "5"
       },
       "difficulty": "easy",
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -10825,7 +10825,7 @@
         "compute": "5"
       },
       "difficulty": "easy",
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -10848,7 +10848,7 @@
         "compute": "1"
       },
       "difficulty": "easy",
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -10871,7 +10871,7 @@
         "compute": "1"
       },
       "difficulty": "easy",
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -10894,7 +10894,7 @@
         "compute": "1"
       },
       "difficulty": "easy",
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -10917,7 +10917,7 @@
         "compute": "1"
       },
       "difficulty": "easy",
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -10940,7 +10940,7 @@
         "compute": "1"
       },
       "difficulty": "easy",
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -10963,7 +10963,7 @@
         "compute": "1"
       },
       "difficulty": "easy",
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -10986,7 +10986,7 @@
         "compute": "1"
       },
       "difficulty": "easy",
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -11009,7 +11009,7 @@
         "compute": "1"
       },
       "difficulty": "easy",
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -11032,7 +11032,7 @@
         "compute": "1"
       },
       "difficulty": "easy",
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -11055,7 +11055,7 @@
         "compute": "1"
       },
       "difficulty": "easy",
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -11076,7 +11076,7 @@
         "decode_string": "Hello_World~",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -11097,7 +11097,7 @@
         "decode_string": "搜索?q=CTF挑战",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -11118,7 +11118,7 @@
         "decode_string": "user@example.com",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -11139,7 +11139,7 @@
         "decode_string": "key=value&id=123",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -11160,7 +11160,7 @@
         "decode_string": "$123.45%^*()",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -11181,7 +11181,7 @@
         "decode_string": "[{\"name\":\"test\"}]",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -11202,7 +11202,7 @@
         "decode_string": "'OR 1=1--",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -11223,7 +11223,7 @@
         "decode_string": "%20special%21",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -11244,7 +11244,7 @@
         "decode_string": "<h1>Title</h1>",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -11265,7 +11265,7 @@
         "decode_string": "file:///path/to/file",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -11286,7 +11286,7 @@
         "decode_string": "Hello CTF!",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -11307,7 +11307,7 @@
         "decode_string": "whois",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -11328,7 +11328,7 @@
         "decode_string": "krypto",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -11349,7 +11349,7 @@
         "decode_string": "1+2=3",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -11370,7 +11370,7 @@
         "decode_string": "ABCDE",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -11391,7 +11391,7 @@
         "decode_string": "Hi World",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -11412,7 +11412,7 @@
         "decode_string": "{__}!",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -11433,7 +11433,7 @@
         "decode_string": "AES-256 SHA3",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -11454,7 +11454,7 @@
         "decode_string": "/etc/passwd",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -11475,7 +11475,7 @@
         "decode_string": "2024-06-14 14:30",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -11496,7 +11496,7 @@
         "original_string": "709c3e8e8449cc5b2d9ae56707cc2cdb",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -11517,7 +11517,7 @@
         "original_string": "d41d8cd98f00b204e9800998ecf8427e",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -11538,7 +11538,7 @@
         "original_string": "b4a3d8c1e7f2a9b6",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -11559,7 +11559,7 @@
         "original_string": "2023-10-05 14:30:00 UTC",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -11580,7 +11580,7 @@
         "original_string": "e645f832abeb9d2041c4ba1724f30e8d",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -11601,7 +11601,7 @@
         "original_string": "3d684f90ea4dce2b24f813c492b414b2",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -11622,7 +11622,7 @@
         "original_string": "123456789012345678901234567890",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -11643,7 +11643,7 @@
         "original_string": "b2e05ef4c9024f50b2eedde5de2150cc",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -11664,7 +11664,7 @@
         "original_string": "00000000000000000000000000000000",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -11685,7 +11685,7 @@
         "original_string": "88888888888888888888888888888888",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -11706,7 +11706,7 @@
         "decode_string": "Hello",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -11727,7 +11727,7 @@
         "decode_string": "World",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -11748,7 +11748,7 @@
         "decode_string": "ChatGPT",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -11769,7 +11769,7 @@
         "decode_string": "AI",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -11790,7 +11790,7 @@
         "decode_string": "Code",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -11811,7 +11811,7 @@
         "decode_string": "Data",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -11832,7 +11832,7 @@
         "decode_string": "Logic",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -11853,7 +11853,7 @@
         "decode_string": "Binary",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -11874,7 +11874,7 @@
         "decode_string": "Python",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -11895,7 +11895,7 @@
         "decode_string": "Number",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -11916,7 +11916,7 @@
         "decode_string": "0",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -11937,7 +11937,7 @@
         "decode_string": "1",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -11958,7 +11958,7 @@
         "decode_string": "01",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -11979,7 +11979,7 @@
         "decode_string": "10",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -12000,7 +12000,7 @@
         "decode_string": "0000",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -12021,7 +12021,7 @@
         "decode_string": "1111",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -12042,7 +12042,7 @@
         "decode_string": "01010101",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -12063,7 +12063,7 @@
         "decode_string": "1010",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -12084,7 +12084,7 @@
         "decode_string": "0011",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -12105,7 +12105,7 @@
         "decode_string": "1100",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -12126,7 +12126,7 @@
         "decode_string": "SOS",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -12147,7 +12147,7 @@
         "decode_string": "HELLO WORLD",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -12168,7 +12168,7 @@
         "decode_string": "CTF FLAG",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -12189,7 +12189,7 @@
         "decode_string": "1234567890",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -12210,7 +12210,7 @@
         "decode_string": "ALPHA BRAVO",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -12231,7 +12231,7 @@
         "decode_string": "PYTHON",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -12252,7 +12252,7 @@
         "decode_string": "VIRTUAL",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -12273,7 +12273,7 @@
         "decode_string": "WHERE IS THE FLAG?",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -12294,7 +12294,7 @@
         "decode_string": "PROOF OF CONCEPT",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -12315,7 +12315,7 @@
         "decode_string": "VULN_SCORE",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -12336,7 +12336,7 @@
         "decode_string": "Hello World",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -12357,7 +12357,7 @@
         "decode_string": "CTF=Challenge=2024",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -12378,7 +12378,7 @@
         "decode_string": "Café_☃",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -12399,7 +12399,7 @@
         "decode_string": "[[Important!]]",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -12420,7 +12420,7 @@
         "decode_string": "Line break\r\nThis is new line",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -12441,7 +12441,7 @@
         "decode_string": "$&@#%*",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -12462,7 +12462,7 @@
         "decode_string": "ABCDEFGHIJKLMNOPQRSTUVWXYZ\nabcdefghijklmnopqrstuvwxyz",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -12483,7 +12483,7 @@
         "decode_string": "あいうえお",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -12504,7 +12504,7 @@
         "decode_string": "\"Quoted Print Encoding\" (QP)",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
@@ -12525,7 +12525,7 @@
         "decode_string": "This is a very long sentence that needs to be wrapped automatically by QP encoding.",
         "compute": "1"
       },
-      "source_url": [
+      "source": [
         "https://ctf-wiki.org/crypto/introduction/",
         "https://github.com/ctf-wiki/ctf-challenges/tree/master/crypto"
       ],
