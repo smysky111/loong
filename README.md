@@ -22,7 +22,7 @@
 [Community](https://github.com/camel-ai/camel#community) |
 [Cookbook](https://github.com/camel-ai/loong/tree/main/cookbooks) |
 [Datasets](https://huggingface.co/datasets/camel-ai/loong) |
-[Loong Blog](https://www.camel-ai.org/blogs/project-loong-synthetic-data-at-scale-through-verifiers)
+[Loong Blog](https://www.camel-ai.org/blogs/project-loong-synthetic-data-at-scale-through-verifiers) |
 [Contributing](data/CONTRIBUTING.md) |
 [CAMEL-AI](https://www.camel-ai.org/)
 </h4>
